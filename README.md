@@ -2,37 +2,39 @@
 <h3 align="center">⚙️ Backend Systems • ☁️ Cloud • 🔐 Secure Architecture</h3>
 
 <p align="center">
-I build systems that don't break when reality hits.
+I build systems meant for real-world use.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Govind-Madhav&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=govind-madhav&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 Engineering Identity
+## 🧠 How I Approach Engineering
 
-I design **resilient backend systems** that are built for:
+I enjoy building backend systems that are meant to last.
 
-✔️ Scale  
-✔️ Security  
-✔️ Stability  
-✔️ Failure tolerance  
+My focus is usually on:
 
-Because production doesn't forgive weak architecture.
+✔️ keeping things scalable  
+✔️ making access secure  
+✔️ structuring systems so they stay stable as they grow  
+
+Because in real use, systems rarely fail loudly —  
+they drift into problems slowly.
 
 ---
 
-## 🧭 Current Direction
+## 🧭 What I'm Working Towards
 
 | Area | Focus |
 |------|------|
-| Backend Systems | API Architecture & Modularity |
-| Cloud | Distributed Thinking |
-| Security | Auth Infrastructure |
-| AI | Intelligent Integrations |
-| Systems Design | Failure-Resistant Design |
+| Backend | Clean API structure |
+| Cloud | Making systems deployment-ready |
+| Security | Access & Auth design |
+| AI | Practical integrations |
+| Architecture | Keeping systems maintainable |
 
 ---
 
@@ -62,34 +64,35 @@ Because production doesn't forgive weak architecture.
 <p>
   <img src="https://skillicons.dev/icons?i=python&perline=6" />
 </p>
+
+---
+
 ## 🏗️ System Builds
 
 | System | Nature |
 |--------|--------|
-| Titan Arena | Scalable Gaming Infra |
-| University ERP | Modular Enterprise System |
-| Browser PDF Editor | Client-side Processing |
-| ML Cancer Detection | Applied AI Model |
+| Titan Arena | Backend for gaming platform |
+| University ERP | Academic ERP (in development) |
+| Browser PDF Editor | Client-side processing tool |
+| ML Cancer Detection | Experimental classification model |
 
 ---
 
 ## 📊 Engineering Activity
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=govind-madhav&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
-
----
 ---
 
 ## 🧭 Philosophy
 
-> Systems fail silently before they fail publicly.  
-> I build for both moments.
+> Good code works today.  
+> Good structure keeps working later.
 
 ---
+
 ## 🌐 Connect
 
 <p align="left">
