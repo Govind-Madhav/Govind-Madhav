@@ -1,21 +1,108 @@
-# 💫 About Me:
-## Hi there 👋 I'm Govind<br><br>🎓 MCA (Cloud Computing) Student  <br>☁️ Cloud-oriented developer with strong backend foundations, frontend capability, and security awareness<br><br>---<br><br>### 🧠 What I Do<br>I build **backend-first systems** designed to scale, integrate cleanly with the frontend, and follow security-first principles.  <br>I prefer real-world use cases over toy projects.<br><br>---<br><br>### 🛠️ Technical Skill Set<br><br>**Backend**<br>- Java, Core Java<br>- Node.js, Express.js<br>- RESTful API Development<br>- ORM & Database Design<br><br>**Frontend**<br>- React.js<br>- TypeScript, JavaScript<br>- Tailwind CSS<br>- Basic Three.js exposure<br><br>**Databases & Caching**<br>- MySQL<br>- Redis (basic usage)<br><br>**Cloud, DevOps & Tools**<br>- Docker (learning & usage)<br>- Git & GitHub<br>- Firebase<br>- Linux basics<br><br>**Networking & Security**<br>- CompTIA Network+ (Certified)<br>- Networking fundamentals<br>- Secure authentication & API design<br>- Access control & role-based systems<br><br>**AI (Supporting Skill)**<br>- Python<br>- Applied AI projects (not theory-only)<br><br>---<br><br>### 📌 Notable Projects<br>- **Titan Arena** – Backend-heavy full-stack system  <br>- **PDF Editor** – Browser-based PDF utilities  <br>- **University ERP** – Enterprise-style system (architecture & design phase)  <br>- **Lung Cancer Detection (AI)** – Applied ML project (Python)<br><br>---<br><br>### 🎯 Current Focus<br>- Cloud-native backend systems  <br>- Clean system design & scalability  <br>- Security-aware application development  <br><br>---<br><br>### 🧭 Engineering Philosophy<br>> Build systems that still work when users, traffic, and problems increase.<br><br>---<br><br>📫 *Actively learning, building, and refining. Quality over quantity.*<br>
+<h1 align="center">Govind Madhav</h1>
+<h3 align="center">Backend • Cloud • Security-Focused Builder</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/govindyt0149) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/govind_madhav9?igsh=OGowYWlwam9ydmc0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/govind-madhav-124663287/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/govindmadhav003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govindmadhav003@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Govind-Madhav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Govind-Madhav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-Madhav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+Designing systems that stay stable when scale, traffic, and failure hit.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Govind-Madhav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 About Me
+
+🎓 MCA (Cloud Computing)  
+☁️ Cloud-oriented developer  
+🔐 Security-aware backend engineer  
+
+I build **backend-first systems** designed to:
+
+- scale predictably  
+- integrate cleanly  
+- fail safely  
+
+Real-world use cases > toy projects.
+
+---
+
+## ⚙️ Engineering Focus
+
+| Domain | Direction |
+|--------|----------|
+| Backend | Scalable API Systems |
+| Cloud | Cloud-native thinking |
+| Security | Auth & Access Control |
+| Design | Resilient architecture |
+| AI | Applied Intelligence |
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### Data Layer
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+
+### Cloud & Dev
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+
+---
+
+## 🔐 Networking & Security
+
+- CompTIA Network+ Certified
+- Secure API Design
+- RBAC Systems
+- Network-aware architecture
+
+---
+
+## 🤖 Applied AI
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+
+---
+
+## 🏗️ Notable Builds
+
+| Project | Description |
+|--------|-------------|
+| Titan Arena | Backend-heavy scalable system |
+| University ERP | Enterprise modular architecture |
+| PDF Editor | Browser-based utility |
+| Lung Cancer Detection | Applied ML classification |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Govind-Madhav&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-Madhav&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🧠 Engineering Belief
+
+> A system isn’t successful because it works.  
+> It’s successful because it keeps working under pressure.
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-madhav-124663287/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/govind_madhav9)
+[![X](https://img.shields.io/badge/X-black?logo=X)](https://x.com/govindmadhav003)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govindmadhav003@gmail.com)
