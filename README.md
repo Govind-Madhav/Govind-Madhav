@@ -36,44 +36,32 @@ Because production doesn't forgive weak architecture.
 
 ---
 
-## ⚒️ Tech Arsenal
+## ⚒️ Tech Stack
 
-### 🏗 Backend
+### 🏗 Backend Systems
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,ts&perline=6" />
 </p>
 
-### 🎨 Frontend (When Needed)
+### 🗄 Data Layer
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,redis&perline=6" />
 </p>
 
-### 🗄 Data & Caching
+### 🎨 Frontend (System Interface)
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind&perline=6" />
 </p>
 
-### ☁️ Dev & Infra
+### ☁️ Infra & Dev Environment
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git&perline=6" />
 </p>
 
-## 🔐 Security Mindset
-
-- CompTIA Network+ Certified
-- RBAC System Design
-- Secure API Flows
-- Network-Aware Architecture
-
----
-
+### 🤖 AI Layer
+<p>
+  <img src="https://skillicons.dev/icons?i=python&perline=6" />
+</p>
 ## 🏗️ System Builds
 
 | System | Nature |
