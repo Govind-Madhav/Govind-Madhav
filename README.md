@@ -76,9 +76,9 @@ Because production doesn't forgive weak architecture.
 ## 📊 Engineering Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Govind-Madhav&theme=tokyonight&hide_border=true"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Govind-Madhav&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-Madhav&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Govind-Madhav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img src="https://streak-stats.demolab.com?user=Govind-Madhav&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-Madhav&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
