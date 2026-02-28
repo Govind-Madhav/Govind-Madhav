@@ -1,96 +1,98 @@
 <h1 align="center">Govind Madhav</h1>
-<h3 align="center">Backend • Cloud • Security-Focused Builder</h3>
+<h3 align="center">⚙️ Backend Systems • ☁️ Cloud • 🔐 Secure Architecture</h3>
 
 <p align="center">
-Designing systems that stay stable when scale, traffic, and failure hit.
+I build systems that don't break when reality hits.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Govind-Madhav&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧭 About Me
+## 🧠 Engineering Identity
 
-🎓 MCA (Cloud Computing)  
-☁️ Cloud-oriented developer  
-🔐 Security-aware backend engineer  
+I design **resilient backend systems** that are built for:
 
-I build **backend-first systems** designed to:
+✔️ Scale  
+✔️ Security  
+✔️ Stability  
+✔️ Failure tolerance  
 
-- scale predictably  
-- integrate cleanly  
-- fail safely  
-
-Real-world use cases > toy projects.
+Because production doesn't forgive weak architecture.
 
 ---
 
-## ⚙️ Engineering Focus
+## 🧭 Current Direction
 
-| Domain | Direction |
-|--------|----------|
-| Backend | Scalable API Systems |
-| Cloud | Cloud-native thinking |
-| Security | Auth & Access Control |
-| Design | Resilient architecture |
-| AI | Applied Intelligence |
+| Area | Focus |
+|------|------|
+| Backend Systems | API Architecture & Modularity |
+| Cloud | Distributed Thinking |
+| Security | Auth Infrastructure |
+| AI | Intelligent Integrations |
+| Systems Design | Failure-Resistant Design |
 
 ---
 
-## 🧰 Tech Stack
+## ⚒️ Tech Arsenal
 
-### Backend
+### 🏗 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-### Frontend
+### 🎨 Frontend (When Needed)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### Data Layer
+### 🗄 Data & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
 
-### Cloud & Dev
+### ☁️ Dev & Infra
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 
 ---
 
-## 🔐 Networking & Security
+## 🔐 Security Mindset
 
 - CompTIA Network+ Certified
-- Secure API Design
-- RBAC Systems
-- Network-aware architecture
+- RBAC System Design
+- Secure API Flows
+- Network-Aware Architecture
 
 ---
 
-## 🤖 Applied AI
+## 🏗️ System Builds
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-
----
-
-## 🏗️ Notable Builds
-
-| Project | Description |
-|--------|-------------|
-| Titan Arena | Backend-heavy scalable system |
-| University ERP | Enterprise modular architecture |
-| PDF Editor | Browser-based utility |
-| Lung Cancer Detection | Applied ML classification |
+| System | Nature |
+|--------|--------|
+| Titan Arena | Scalable Gaming Infra |
+| University ERP | Modular Enterprise System |
+| Browser PDF Editor | Client-side Processing |
+| ML Cancer Detection | Applied AI Model |
 
 ---
 
-📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Govind-Madhav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Govind-Madhav&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-Madhav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 Engineering Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Govind-Madhav&theme=tokyonight&hide_border=true"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Govind-Madhav&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-Madhav&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
+
 ---
 
-## 🧠 Engineering Belief
+## 🧭 Philosophy
 
-> A system isn’t successful because it works.  
-> It’s successful because it keeps working under pressure.
+> Systems fail silently before they fail publicly.  
+> I build for both moments.
 
 ---
 
