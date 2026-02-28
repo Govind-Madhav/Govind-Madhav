@@ -75,17 +75,11 @@ Because production doesn't forgive weak architecture.
 
 ## 📊 Engineering Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=govind-madhav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=govind-madhav&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind-madhav&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
 
 ---
 ---
