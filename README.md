@@ -2,7 +2,7 @@
 
 ---
 
-## 🌐 My Portfolio: [https://govind-madhav.vercel.app](https://https://govind-madhav.vercel.app//)
+## 🌐 My Portfolio: [govind-madhav.vercel.app](https://https://govind-madhav.vercel.app//)
 
 <table>
   <tr>
@@ -109,7 +109,7 @@
   * Interactive WebGL canvas shaders and mouse-tracking pixel portrait engine
   * Database-backed content management system, visitor analytics, and session auditing
   * Responsive modern UI with production deployment on Vercel & PostgreSQL
-* **Links:** [🌐 Live Site (https://govind-madhav.vercel.app/)](https://https://govind-madhav.vercel.app/) • [▲ Vercel Mirror](https://govind-madhav.vercel.app/) • [💻 Source Code](https://github.com/govind-madhav/PortFolio-)
+* **Links:** [🌐 Live Site (govind-madhav.vercel.app)](https://https://govind-madhav.vercel.app/) • [▲ Vercel Mirror](https://govind-madhav.vercel.app/) • [💻 Source Code](https://github.com/govind-madhav/PortFolio-)
 
 ---
 
@@ -170,6 +170,7 @@
 ## 📊 GitHub Activity
 
 <div align="center">
+<<<<<<< HEAD
 
 ---
 
@@ -187,7 +188,7 @@
 ## 🗺️ Engineering Journey
 
 ```
-BCA  ➔  MCA (Cloud Computing)  ➔  Backend & Full-Stack Development  ➔  Cloud & DevOps  
+BCA  ➔  MCA (Cloud Computing)  ➔  Backend & Full-Stack Development  ➔  Cloud & DevOps
 ```
 
 ---
