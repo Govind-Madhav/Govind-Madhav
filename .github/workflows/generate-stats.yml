@@ -9,13 +9,15 @@ jobs:
   build:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: 18
 
@@ -25,18 +27,16 @@ jobs:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
         run: node .github/scripts/generate-stats.js
 
-      - name: Generate Contribution Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and Push dist SVGs
+      - name: Commit and Push Updated SVGs
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add dist/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: update realtime profile SVG cards [skip ci]" && git push)
+
+          if git diff --cached --quiet; then
+            echo "No stats changes detected."
+          else
+            git commit -m "chore: update GitHub stats [skip ci]"
+            git push
+          fi

@@ -22,7 +22,7 @@
     <!-- Box 2: Total Commits -->
     <rect class="box-bg" x="231" y="0" width="215" height="58" />
     <text x="16" y="24" class="stat-label">TOTAL COMMITS</text>
-    <text x="16" y="44" class="stat-val-green">425+</text>
+    <text x="16" y="44" class="stat-val-green">426+</text>
 
     <!-- Box 3: Total PRs -->
     <rect class="box-bg" x="0" y="70" width="215" height="58" />
