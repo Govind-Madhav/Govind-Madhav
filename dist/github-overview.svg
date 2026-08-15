@@ -1,37 +1,184 @@
-<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .header { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F59E0B; }
-    .stat-label { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #71717A; text-transform: uppercase; letter-spacing: 0.05em; }
-    .stat-val { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
-    .stat-val-green { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #10B981; }
-    .stat-val-amber { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F59E0B; }
-    .card-bg { fill: #0A0A0A; stroke: #262626; stroke-width: 1px; rx: 12px; }
-    .box-bg { fill: #121212; stroke: #1F1F1F; stroke-width: 1px; rx: 8px; }
-  </style>
-  <rect class="card-bg" x="1" y="1" width="493" height="193" />
-  
-  <text x="24" y="32" class="header">GOVIND-MADHAV'S GITHUB OVERVIEW</text>
-  <circle cx="465" cy="28" r="4" fill="#10B981" />
+<svg
+  width="495"
+  height="195"
+  viewBox="0 0 495 195"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
-  <g transform="translate(24, 48)">
-    <!-- Box 1: Total Stars -->
-    <rect class="box-bg" x="0" y="0" width="215" height="58" />
-    <text x="16" y="24" class="stat-label">TOTAL STARS</text>
-    <text x="16" y="44" class="stat-val">2</text>
+<style>
+  .header {
+    font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #F59E0B;
+  }
 
-    <!-- Box 2: Total Commits -->
-    <rect class="box-bg" x="231" y="0" width="215" height="58" />
-    <text x="16" y="24" class="stat-label">TOTAL COMMITS</text>
-    <text x="16" y="44" class="stat-val-green">426+</text>
+  .label {
+    font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #71717A;
+    letter-spacing: 0.05em;
+  }
 
-    <!-- Box 3: Total PRs -->
-    <rect class="box-bg" x="0" y="70" width="215" height="58" />
-    <text x="16" y="24" class="stat-label">TOTAL PRS & FORKS</text>
-    <text x="16" y="44" class="stat-val">6</text>
+  .value {
+    font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #FFFFFF;
+  }
 
-    <!-- Box 4: Contributed to -->
-    <rect class="box-bg" x="231" y="70" width="215" height="58" />
-    <text x="16" y="24" class="stat-label">CONTRIBUTED TO</text>
-    <text x="16" y="44" class="stat-val-amber">18 repos</text>
-  </g>
+  .green {
+    font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #10B981;
+  }
+
+  .amber {
+    font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #F59E0B;
+  }
+
+  .card {
+    fill: #0A0A0A;
+    stroke: #262626;
+    stroke-width: 1;
+  }
+
+  .box {
+    fill: #121212;
+    stroke: #1F1F1F;
+    stroke-width: 1;
+  }
+</style>
+
+<rect
+  class="card"
+  x="1"
+  y="1"
+  width="493"
+  height="193"
+  rx="12"
+/>
+
+<text
+  x="24"
+  y="32"
+  class="header"
+>
+  GOVIND-MADHAV'S GITHUB OVERVIEW
+</text>
+
+<circle
+  cx="465"
+  cy="28"
+  r="4"
+  fill="#10B981"
+/>
+
+<!-- STARS -->
+
+<rect
+  class="box"
+  x="24"
+  y="48"
+  width="215"
+  height="58"
+  rx="8"
+/>
+
+<text
+  x="40"
+  y="72"
+  class="label"
+>
+  TOTAL STARS
+</text>
+
+<text
+  x="40"
+  y="92"
+  class="value"
+>
+  1
+</text>
+
+
+<!-- COMMITS -->
+
+<rect
+  class="box"
+  x="255"
+  y="48"
+  width="215"
+  height="58"
+  rx="8"
+/>
+
+<text
+  x="271"
+  y="72"
+  class="label"
+>
+  COMMITS · 1 YEAR
+</text>
+
+<text
+  x="271"
+  y="92"
+  class="green"
+>
+  403
+</text>
+
+
+<!-- PRS + FORKS -->
+
+<rect
+  class="box"
+  x="24"
+  y="118"
+  width="215"
+  height="58"
+  rx="8"
+/>
+
+<text
+  x="40"
+  y="142"
+  class="label"
+>
+  PRS · FORKS
+</text>
+
+<text
+  x="40"
+  y="162"
+  class="value"
+>
+  5 · 6
+</text>
+
+
+<!-- CONTRIBUTED TO -->
+
+<rect
+  class="box"
+  x="255"
+  y="118"
+  width="215"
+  height="58"
+  rx="8"
+/>
+
+<text
+  x="271"
+  y="142"
+  class="label"
+>
+  CONTRIBUTED TO
+</text>
+
+<text
+  x="271"
+  y="162"
+  class="amber"
+>
+  15 repos
+</text>
+
 </svg>

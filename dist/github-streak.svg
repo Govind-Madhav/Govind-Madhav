@@ -1,33 +1,145 @@
-<svg width="990" height="195" viewBox="0 0 990 195" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .header { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F59E0B; }
-    .badge { font: 700 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #10B981; }
-    .stat-label { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #71717A; text-transform: uppercase; letter-spacing: 0.05em; }
-    .stat-val { font: 700 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F59E0B; }
-    .stat-val-green { font: 700 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #10B981; }
-    .card-bg { fill: #0A0A0A; stroke: #262626; stroke-width: 1px; rx: 12px; }
-    .box-bg { fill: #121212; stroke: #1F1F1F; stroke-width: 1px; rx: 8px; }
-  </style>
-  <rect class="card-bg" x="1" y="1" width="988" height="193" />
-  
-  <text x="24" y="32" class="header">🔥 GITHUB CONTRIBUTION STREAK</text>
-  <rect x="870" y="16" width="96" height="24" fill="#064E3B" rx="12" stroke="#059669" stroke-width="1" />
-  <text x="918" y="32" class="badge" text-anchor="middle">ACTIVE STREAK</text>
+<svg
+  width="1000"
+  height="150"
+  viewBox="0 0 1000 150"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
-  <g transform="translate(24, 52)">
-    <!-- Box 1: Total Commits -->
-    <rect class="box-bg" x="0" y="0" width="300" height="110" />
-    <text x="150" y="40" class="stat-label" text-anchor="middle">TOTAL COMMITS</text>
-    <text x="150" y="75" class="stat-val" text-anchor="middle">426+</text>
+<style>
 
-    <!-- Box 2: Current Streak -->
-    <rect class="box-bg" x="321" y="0" width="300" height="110" />
-    <text x="471" y="40" class="stat-label" text-anchor="middle">CURRENT STREAK</text>
-    <text x="471" y="75" class="stat-val-green" text-anchor="middle">30 Days</text>
+  .header {
+    font: 700 17px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #F59E0B;
+  }
 
-    <!-- Box 3: Longest Streak -->
-    <rect class="box-bg" x="642" y="0" width="300" height="110" />
-    <text x="792" y="40" class="stat-label" text-anchor="middle">LONGEST STREAK</text>
-    <text x="792" y="75" class="stat-val" text-anchor="middle">30 Days</text>
-  </g>
+  .label {
+    font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #71717A;
+    letter-spacing: 0.05em;
+  }
+
+  .value {
+    font: 700 25px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #FFFFFF;
+  }
+
+  .green {
+    font: 700 25px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #10B981;
+  }
+
+  .amber {
+    font: 700 25px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #F59E0B;
+  }
+
+  .card {
+    fill: #0A0A0A;
+    stroke: #262626;
+    stroke-width: 1;
+  }
+
+</style>
+
+<rect
+  class="card"
+  x="1"
+  y="1"
+  width="998"
+  height="148"
+  rx="12"
+/>
+
+<text
+  x="28"
+  y="34"
+  class="header"
+>
+  GITHUB CONTRIBUTION STREAK
+</text>
+
+<circle
+  cx="970"
+  cy="30"
+  r="4"
+  fill="#10B981"
+/>
+
+
+<!-- CURRENT STREAK -->
+
+<text
+  x="28"
+  y="70"
+  class="label"
+>
+  CURRENT STREAK
+</text>
+
+<text
+  x="28"
+  y="103"
+  class="green"
+>
+  30 DAYS
+</text>
+
+
+<!-- LONGEST STREAK -->
+
+<text
+  x="278"
+  y="70"
+  class="label"
+>
+  LONGEST STREAK
+</text>
+
+<text
+  x="278"
+  y="103"
+  class="amber"
+>
+  30 DAYS
+</text>
+
+
+<!-- CONTRIBUTIONS -->
+
+<text
+  x="528"
+  y="70"
+  class="label"
+>
+  CONTRIBUTIONS · 1 YEAR
+</text>
+
+<text
+  x="528"
+  y="103"
+  class="value"
+>
+  427
+</text>
+
+
+<!-- COMMITS -->
+
+<text
+  x="768"
+  y="70"
+  class="label"
+>
+  COMMITS · 1 YEAR
+</text>
+
+<text
+  x="768"
+  y="103"
+  class="value"
+>
+  403
+</text>
+
 </svg>

@@ -1,52 +1,268 @@
-<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .header { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F59E0B; }
-    .subtitle { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #71717A; }
-    .lang-name { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E4E4E7; }
-    .lang-pct { font: 700 12px 'Segoe UI', Ubuntu, Sans-Serif; }
-    .card-bg { fill: #0A0A0A; stroke: #262626; stroke-width: 1px; rx: 12px; }
-    .box-bg { fill: #121212; stroke: #1F1F1F; stroke-width: 1px; rx: 8px; }
-  </style>
-  <rect class="card-bg" x="1" y="1" width="493" height="193" />
-  
-  <text x="24" y="32" class="header">MOST USED LANGUAGES</text>
-  <text x="471" y="32" class="subtitle" text-anchor="end">LIVE STACK</text>
+<svg
+  width="495"
+  height="195"
+  viewBox="0 0 495 195"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
-  <g transform="translate(24, 48)">
-    <rect x="0" y="0" width="446" height="10" fill="#171717" rx="5" />
-    <g clip-path="url(#bar-clip)">
-      <rect x="0" y="0" width="200.70000000000002" height="10" fill="#10B981" rx="2" /><rect x="200.70000000000002" y="0" width="80.28" height="10" fill="#F59E0B" rx="2" /><rect x="280.98" y="0" width="40.14" height="10" fill="#8B5CF6" rx="2" /><rect x="321.12" y="0" width="40.14" height="10" fill="#3B82F6" rx="2" />
-    </g>
-    <g transform="translate(0, 24)">
-      
-      <g transform="translate(0, 0)">
-        <rect class="box-bg" x="0" y="0" width="215" height="34" />
-        <circle cx="16" cy="17" r="4" fill="#10B981" />
-        <text x="28" y="21" class="lang-name">JavaScript</text>
-        <text x="198" y="21" class="lang-pct" fill="#10B981" text-anchor="end">45%</text>
-      </g>
-    
-      <g transform="translate(231, 0)">
-        <rect class="box-bg" x="0" y="0" width="215" height="34" />
-        <circle cx="16" cy="17" r="4" fill="#F59E0B" />
-        <text x="28" y="21" class="lang-name">TypeScript</text>
-        <text x="198" y="21" class="lang-pct" fill="#F59E0B" text-anchor="end">18%</text>
-      </g>
-    
-      <g transform="translate(0, 40)">
-        <rect class="box-bg" x="0" y="0" width="215" height="34" />
-        <circle cx="16" cy="17" r="4" fill="#8B5CF6" />
-        <text x="28" y="21" class="lang-name">Python</text>
-        <text x="198" y="21" class="lang-pct" fill="#8B5CF6" text-anchor="end">9%</text>
-      </g>
-    
-      <g transform="translate(231, 40)">
-        <rect class="box-bg" x="0" y="0" width="215" height="34" />
-        <circle cx="16" cy="17" r="4" fill="#3B82F6" />
-        <text x="28" y="21" class="lang-name">Java</text>
-        <text x="198" y="21" class="lang-pct" fill="#3B82F6" text-anchor="end">9%</text>
-      </g>
-    
-    </g>
-  </g>
+<style>
+
+  .header {
+    font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #F59E0B;
+  }
+
+  .subtitle {
+    font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #71717A;
+    letter-spacing: 0.05em;
+  }
+
+  .lang-name {
+    font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif;
+    fill: #E4E4E7;
+  }
+
+  .lang-percent {
+    font: 700 12px 'Segoe UI', Ubuntu, Sans-Serif;
+  }
+
+  .card {
+    fill: #0A0A0A;
+    stroke: #262626;
+    stroke-width: 1;
+  }
+
+  .box {
+    fill: #121212;
+    stroke: #1F1F1F;
+    stroke-width: 1;
+  }
+
+</style>
+
+<rect
+  class="card"
+  x="1"
+  y="1"
+  width="493"
+  height="193"
+  rx="12"
+/>
+
+<text
+  x="24"
+  y="32"
+  class="header"
+>
+  MOST USED LANGUAGES
+</text>
+
+<text
+  x="471"
+  y="32"
+  class="subtitle"
+  text-anchor="end"
+>
+  LIVE STACK
+</text>
+
+<!-- LANGUAGE BAR -->
+
+<rect
+  x="24"
+  y="48"
+  width="446"
+  height="10"
+  fill="#171717"
+  rx="5"
+/>
+
+<g transform="translate(24, 48)">
+  
+<rect
+  x="0.00"
+  y="0"
+  width="326.35"
+  height="10"
+  fill="#10B981"
+/>
+<rect
+  x="326.35"
+  y="0"
+  width="92.35"
+  height="10"
+  fill="#F59E0B"
+/>
+<rect
+  x="418.69"
+  y="0"
+  width="16.81"
+  height="10"
+  fill="#8B5CF6"
+/>
+<rect
+  x="435.50"
+  y="0"
+  width="10.50"
+  height="10"
+  fill="#3B82F6"
+/>
+</g>
+
+<!-- LANGUAGE CARDS -->
+
+<g transform="translate(24, 72)">
+  
+<g transform="translate(0, 0)">
+
+  <rect
+    class="box"
+    x="0"
+    y="0"
+    width="215"
+    height="34"
+    rx="8"
+  />
+
+  <circle
+    cx="16"
+    cy="17"
+    r="4"
+    fill="#10B981"
+  />
+
+  <text
+    x="28"
+    y="21"
+    class="lang-name"
+  >
+    JavaScript
+  </text>
+
+  <text
+    x="198"
+    y="21"
+    class="lang-percent"
+    fill="#10B981"
+    text-anchor="end"
+  >
+    70.4%
+  </text>
+
+</g>
+<g transform="translate(231, 0)">
+
+  <rect
+    class="box"
+    x="0"
+    y="0"
+    width="215"
+    height="34"
+    rx="8"
+  />
+
+  <circle
+    cx="16"
+    cy="17"
+    r="4"
+    fill="#F59E0B"
+  />
+
+  <text
+    x="28"
+    y="21"
+    class="lang-name"
+  >
+    Jupyter Notebook
+  </text>
+
+  <text
+    x="198"
+    y="21"
+    class="lang-percent"
+    fill="#F59E0B"
+    text-anchor="end"
+  >
+    19.9%
+  </text>
+
+</g>
+<g transform="translate(0, 40)">
+
+  <rect
+    class="box"
+    x="0"
+    y="0"
+    width="215"
+    height="34"
+    rx="8"
+  />
+
+  <circle
+    cx="16"
+    cy="17"
+    r="4"
+    fill="#8B5CF6"
+  />
+
+  <text
+    x="28"
+    y="21"
+    class="lang-name"
+  >
+    Java
+  </text>
+
+  <text
+    x="198"
+    y="21"
+    class="lang-percent"
+    fill="#8B5CF6"
+    text-anchor="end"
+  >
+    3.6%
+  </text>
+
+</g>
+<g transform="translate(231, 40)">
+
+  <rect
+    class="box"
+    x="0"
+    y="0"
+    width="215"
+    height="34"
+    rx="8"
+  />
+
+  <circle
+    cx="16"
+    cy="17"
+    r="4"
+    fill="#3B82F6"
+  />
+
+  <text
+    x="28"
+    y="21"
+    class="lang-name"
+  >
+    Python
+  </text>
+
+  <text
+    x="198"
+    y="21"
+    class="lang-percent"
+    fill="#3B82F6"
+    text-anchor="end"
+  >
+    2.3%
+  </text>
+
+</g>
+</g>
+
 </svg>
