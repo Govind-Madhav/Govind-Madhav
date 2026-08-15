@@ -198,7 +198,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=govind-madhav&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Govind's GitHub Overview" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=govind-madhav&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" alt="Govind's GitHub Overview" width="48%" />
     &nbsp;
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=govind-madhav&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" width="48%" />
   </p>
