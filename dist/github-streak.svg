@@ -18,7 +18,7 @@
     <!-- Box 1: Total Commits -->
     <rect class="box-bg" x="0" y="0" width="300" height="110" />
     <text x="150" y="40" class="stat-label" text-anchor="middle">TOTAL COMMITS</text>
-    <text x="150" y="75" class="stat-val" text-anchor="middle">423+</text>
+    <text x="150" y="75" class="stat-val" text-anchor="middle">425+</text>
 
     <!-- Box 2: Current Streak -->
     <rect class="box-bg" x="321" y="0" width="300" height="110" />

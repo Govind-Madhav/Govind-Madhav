@@ -274,9 +274,9 @@ async function generateStats() {
   </g>
 </svg>`;
 
-  fs.writeFileSync(path.join(outDir, "github-overview.svg"), overviewSvg);
-  fs.writeFileSync(path.join(outDir, "github-languages.svg"), languagesSvg);
-  fs.writeFileSync(path.join(outDir, "github-streak.svg"), streakSvg);
+  fs.writeFileSync(path.join(outDir, "github-overview.svg"), overviewSvg.trim());
+  fs.writeFileSync(path.join(outDir, "github-languages.svg"), languagesSvg.trim());
+  fs.writeFileSync(path.join(outDir, "github-streak.svg"), streakSvg.trim());
 
   console.log("Successfully generated SVG cards in dist/ directory!");
 }
