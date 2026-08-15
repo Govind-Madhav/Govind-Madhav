@@ -61,7 +61,7 @@ async function generateStats() {
   }
 
   const calendar = user.contributionsCollection?.contributionCalendar;
-  const totalContributions = calendar?.totalContributions || 415;
+  const totalContributions = Math.max(calendar?.totalContributions || 0, 415);
 
   const repos = user.repositories?.nodes || [];
   let totalStars = 0;
@@ -76,7 +76,7 @@ async function generateStats() {
     }
   });
 
-  const totalRepos = user.repositories?.totalCount || 18;
+  const totalRepos = Math.max(user.repositories?.totalCount || 0, 18);
 
   // Calculate Streak
   let currentStreak = 0;
