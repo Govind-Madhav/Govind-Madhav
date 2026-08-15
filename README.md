@@ -1,6 +1,7 @@
 <div align="center">
 
-# Govind Madhav
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0055ff,100:00bfff&height=180&section=header&text=Govind%20Madhav&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Header Animation" width="100%" />
+
 ### **Cloud Software Engineer**
 
 Building resilient backends, distributed systems, cloud infrastructure, and modern digital experiences.
@@ -192,11 +193,11 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind-madhav&theme=react-dark" alt="Govind's GitHub Contribution Activity" />
+  <img src="https://raw.githubusercontent.com/Govind-Madhav/Govind-Madhav/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph Animation" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0055ff/govind-madhav" alt="Govind's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind-madhav&theme=react-dark" alt="Govind's GitHub Contribution Activity" />
 </p>
 
 ---
