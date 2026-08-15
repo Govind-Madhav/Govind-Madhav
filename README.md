@@ -193,12 +193,12 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 ## 📊 GitHub Activity
 <div align="center">
 
-  <img src="./dist/github-overview.svg" alt="GitHub Overview" width="49%" />
-  <img src="./dist/github-languages.svg" alt="Most Used Languages" width="49%" />
+  <img src="https://raw.githubusercontent.com/Govind-Madhav/Govind-Madhav/main/dist/github-overview.svg" alt="GitHub Overview" width="49%" />
+  <img src="https://raw.githubusercontent.com/Govind-Madhav/Govind-Madhav/main/dist/github-languages.svg" alt="Most Used Languages" width="49%" />
 
   <br><br>
 
-  <img src="./dist/github-streak.svg" alt="GitHub Contribution Streak" width="98%" />
+  <img src="https://raw.githubusercontent.com/Govind-Madhav/Govind-Madhav/main/dist/github-streak.svg" alt="GitHub Contribution Streak" width="98%" />
 
 </div>
 
