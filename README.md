@@ -15,7 +15,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 <br/><br/>
 
 <p align="center">
-  <a href="https://govind-madhav.site" target="_blank">
+  <a href="https://https://govind-madhav.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-govind--madhav.site-0055FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
@@ -40,7 +40,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 
 ---
 
-## 🌐 My Portfolio: [govind-madhav.site](https://govind-madhav.site/)
+## 🌐 My Portfolio: [https://govind-madhav.vercel.app/](https://https://govind-madhav.vercel.app//)
 
 <table>
   <tr>
@@ -55,7 +55,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
         <li><b>Backend & CMS:</b> TipTap rich-text editor, visitor analytics, automated session auditing</li>
       </ul>
       <br/>
-      <a href="https://govind-madhav.site" target="_blank">
+      <a href="https://https://govind-madhav.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Visit_Live_Portfolio-govind--madhav.site-0055FF?style=for-the-badge" alt="Visit Portfolio" />
       </a>
       &nbsp;
@@ -68,7 +68,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
       </a>
     </td>
     <td width="40%" align="center" valign="middle">
-      <a href="https://govind-madhav.site" target="_blank">
+      <a href="https://https://govind-madhav.vercel.app/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nextjs,react,ts,prisma,postgres,tailwind,threejs,vercel&perline=4" alt="Portfolio Stack Highlights" width="240" />
       </a>
     </td>
@@ -132,7 +132,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 
 ## 🏗️ Selected Builds
 
-### 🌐 [Govind Madhav Portfolio](https://govind-madhav.site)
+### 🌐 [Govind Madhav Portfolio](https://https://govind-madhav.vercel.app/)
 > **Full-stack personal engineering platform**
 * **Stack:** `Next.js 16` • `TypeScript` • `Prisma` • `PostgreSQL` • `WebGL` • `TipTap CMS`
 * **Engineering Highlights:**
@@ -140,7 +140,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
   * Interactive WebGL canvas shaders and mouse-tracking pixel portrait engine
   * Database-backed content management system, visitor analytics, and session auditing
   * Responsive modern UI with production deployment on Vercel & PostgreSQL
-* **Links:** [🌐 Live Site (govind-madhav.site)](https://govind-madhav.site) • [▲ Vercel Mirror](https://govind-madhav.vercel.app/) • [💻 Source Code](https://github.com/govind-madhav/PortFolio-)
+* **Links:** [🌐 Live Site (https://govind-madhav.vercel.app/)](https://https://govind-madhav.vercel.app/) • [▲ Vercel Mirror](https://govind-madhav.vercel.app/) • [💻 Source Code](https://github.com/govind-madhav/PortFolio-)
 
 ---
 
@@ -191,21 +191,15 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 ---
 
 ## 📊 GitHub Activity
-
 <div align="center">
-  <p align="center">
-    <img src="./dist/github-overview.svg" alt="Govind's GitHub Overview" width="48%" />
-    &nbsp;
-    <img src="./dist/github-languages.svg" alt="Most Used Languages" width="48%" />
-  </p>
-  <br/>
-  <p align="center">
-    <img src="./dist/github-streak.svg" alt="GitHub Contribution Streak" width="97%" />
-  </p>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind-madhav&theme=react-dark" alt="Govind's GitHub Activity Graph" width="97%" />
-  </p>
+
+  <img src="./dist/github-overview.svg" alt="GitHub Overview" width="49%" />
+  <img src="./dist/github-languages.svg" alt="Most Used Languages" width="49%" />
+
+  <br><br>
+
+  <img src="./dist/github-streak.svg" alt="GitHub Contribution Streak" width="98%" />
+
 </div>
 
 ---
@@ -224,7 +218,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 ## 🗺️ Engineering Journey
 
 ```
-BCA  ➔  MCA (Cloud Computing)  ➔  Backend & Full-Stack Development  ➔  Cloud & DevOps  ➔  Cloud Software Engineering
+BCA  ➔  MCA (Cloud Computing)  ➔  Backend & Full-Stack Development  ➔  Cloud & DevOps  
 ```
 
 ---
@@ -243,7 +237,7 @@ BCA  ➔  MCA (Cloud Computing)  ➔  Backend & Full-Stack Development  ➔  Clo
 
 **Let's build something meaningful.**
 
-🌐 **Portfolio:** [govind-madhav.site](https://govind-madhav.site) ([Vercel Mirror](https://govind-madhav.vercel.app/)) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/govind-madhav](https://www.linkedin.com/in/govind-madhav/) &nbsp;|&nbsp; 📂 **GitHub:** [github.com/Govind-Madhav](https://github.com/Govind-Madhav)
+🌐 **Portfolio:** [https://govind-madhav.vercel.app/](https://https://govind-madhav.vercel.app/) ([Vercel Mirror](https://govind-madhav.vercel.app/)) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/govind-madhav](https://www.linkedin.com/in/govind-madhav/) &nbsp;|&nbsp; 📂 **GitHub:** [github.com/Govind-Madhav](https://github.com/Govind-Madhav)
 
 <br/>
 
