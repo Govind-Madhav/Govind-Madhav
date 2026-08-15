@@ -1,8 +1,46 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0055ff,100:00bfff&height=180&section=header&text=Govind%20Madhav&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Header Animation" width="100%" />
+
+### **Cloud Software Engineer**
+
+Building resilient backends, distributed systems, cloud infrastructure, and modern digital experiences.
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1500&color=38BDF8&center=true&vCenter=true&width=620&lines=Cloud+Software+Engineer;Backend+Systems+%E2%80%A2+Cloud+Infrastructure;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+Python;AWS+%E2%80%A2+Docker+%E2%80%A2+Linux+%E2%80%A2+CI%2FCD;Building+systems+that+scale+beyond+the+demo" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://govind-madhav.site" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-govind--madhav.site-0055FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://govind-madhav.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/▲_Vercel_Mirror-govind--madhav.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Mirror" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/govind-madhav/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-in/govind--madhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:govindmadhav003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-govindmadhav003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/govind-madhav?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/📂_GitHub_Projects-Govind--Madhav-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
+  </a>
+</p>
+
+</div>
+
 ---
 
-## 🌐 My Portfolio: [govind-madhav.vercel.app](https://https://govind-madhav.vercel.app//)
+## 🌐 Portfolio Spotlight: [govind-madhav.site](https://govind-madhav.site)
 
 <table>
   <tr>
@@ -17,20 +55,20 @@
         <li><b>Backend & CMS:</b> TipTap rich-text editor, visitor analytics, automated session auditing</li>
       </ul>
       <br/>
-      <a href="https://https://govind-madhav.vercel.app/" target="_blank">
+      <a href="https://govind-madhav.site" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Visit_Live_Portfolio-govind--madhav.site-0055FF?style=for-the-badge" alt="Visit Portfolio" />
       </a>
-       
+      &nbsp;
       <a href="https://govind-madhav.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/▲_Vercel_Mirror-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Mirror" />
       </a>
-       
+      &nbsp;
       <a href="https://github.com/govind-madhav/PortFolio-" target="_blank">
         <img src="https://img.shields.io/badge/💻_View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
     </td>
     <td width="40%" align="center" valign="middle">
-      <a href="https://https://govind-madhav.vercel.app/" target="_blank">
+      <a href="https://govind-madhav.site" target="_blank">
         <img src="https://skillicons.dev/icons?i=nextjs,react,ts,prisma,postgres,tailwind,threejs,vercel&perline=4" alt="Portfolio Stack Highlights" width="240" />
       </a>
     </td>
@@ -41,20 +79,19 @@
 
 ## 🧠 What I Build
 
-| Engineering Focus                        | Philosophy & Approach                                                                                                                                                            |
-| :--------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **⚡ Scalable Systems**            | Designing APIs, services, databases, and backend infrastructure with reliability, concurrency, and long-term maintainability in mind.                                            |
-| **☁️ Cloud-Native Applications** | Architecting with AWS, Docker containers, Linux environments, CI/CD pipelines, and infrastructure automation to move applications smoothly from development to production.       |
-| **🌐 Modern Web Applications**     | Building responsive, high-performance web applications using Next.js 16, React 19, TypeScript, and modern client/server data pipelines.                                          |
-| **🔐 Secure Engineering**          | Applying robust authentication, authorization, role-based access control (RBAC), session auditing, secrets management, and defensive engineering practices throughout the stack. |
-| **🎯 Continuous Improvement**      | Prioritizing deep root-cause understanding of systems over quick superficial patches. Good code works today; good structure keeps working tomorrow.                              |
+| Engineering Focus | Philosophy & Approach |
+|:---|:---|
+| **⚡ Scalable Systems** | Designing APIs, services, databases, and backend infrastructure with reliability, concurrency, and long-term maintainability in mind. |
+| **☁️ Cloud-Native Applications** | Architecting with AWS, Docker containers, Linux environments, CI/CD pipelines, and infrastructure automation to move applications smoothly from development to production. |
+| **🌐 Modern Web Applications** | Building responsive, high-performance web applications using Next.js 16, React 19, TypeScript, and modern client/server data pipelines. |
+| **🔐 Secure Engineering** | Applying robust authentication, authorization, role-based access control (RBAC), session auditing, secrets management, and defensive engineering practices throughout the stack. |
+| **🎯 Continuous Improvement** | Prioritizing deep root-cause understanding of systems over quick superficial patches. Good code works today; good structure keeps working tomorrow. |
 
 ---
 
 ## 🛠️ Technology Stack
 
 ### 🎨 Frontend & Experience
-
 <p>
   <code>Next.js 16</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Three.js</code> • <code>WebGL</code> • <code>HTML5</code> • <code>CSS3</code>
 </p>
@@ -63,7 +100,6 @@
 </p>
 
 ### ⚙️ Backend & Application
-
 <p>
   <code>Java</code> • <code>Spring Boot</code> • <code>Node.js</code> • <code>Express</code> • <code>Python</code> • <code>Prisma ORM</code>
 </p>
@@ -72,7 +108,6 @@
 </p>
 
 ### 🗄️ Data & Storage
-
 <p>
   <code>PostgreSQL</code> • <code>MySQL</code> • <code>Redis</code>
 </p>
@@ -81,7 +116,6 @@
 </p>
 
 ### ☁️ Cloud & Infrastructure
-
 <p>
   <code>AWS</code> • <code>Docker</code> • <code>Linux</code> • <code>GitHub Actions</code> • <code>Bash</code> • <code>Vercel</code>
 </p>
@@ -90,7 +124,6 @@
 </p>
 
 ### 🔐 Security Architecture
-
 <p>
   <code>Authentication</code> • <code>Authorization</code> • <code>Role-Based Access Control (RBAC)</code> • <code>Session Security</code> • <code>Secure Configuration</code>
 </p>
@@ -99,24 +132,20 @@
 
 ## 🏗️ Selected Builds
 
-### 🌐 [Govind Madhav Portfolio](https://https://govind-madhav.vercel.app/)
-
+### 🌐 [Govind Madhav Portfolio](https://govind-madhav.site)
 > **Full-stack personal engineering platform**
-
 * **Stack:** `Next.js 16` • `TypeScript` • `Prisma` • `PostgreSQL` • `WebGL` • `TipTap CMS`
 * **Engineering Highlights:**
   * Full-stack application architecture with Server & Client components in Next.js App Router
   * Interactive WebGL canvas shaders and mouse-tracking pixel portrait engine
   * Database-backed content management system, visitor analytics, and session auditing
   * Responsive modern UI with production deployment on Vercel & PostgreSQL
-* **Links:** [🌐 Live Site (govind-madhav.vercel.app)](https://https://govind-madhav.vercel.app/) • [▲ Vercel Mirror](https://govind-madhav.vercel.app/) • [💻 Source Code](https://github.com/govind-madhav/PortFolio-)
+* **Links:** [🌐 Live Site](https://govind-madhav.site) • [▲ Vercel Mirror](https://govind-madhav.vercel.app/) • [💻 Source Code](https://github.com/govind-madhav/PortFolio-)
 
 ---
 
 ### ⚔️ Titan Arena
-
 > **Tournament and gaming platform backend**
-
 * **Stack:** `React` • `Spring Boot` • `Java` • `MySQL`
 * **Engineering Highlights:**
   * Role-based application architecture for players, moderators, and administrators
@@ -128,9 +157,7 @@
 ---
 
 ### 🎓 University ERP
-
 > **Cloud-oriented academic management platform**
-
 * **Stack:** `Flask` • `Python` • `MySQL` • `HTML5` • `CSS3` • `JavaScript`
 * **Engineering Highlights:**
   * Student administration and admissions record processing
@@ -142,9 +169,7 @@
 ---
 
 ### 📄 Browser PDF Editor
-
 > **Privacy-first client-side document processing application**
-
 * **Stack:** `JavaScript` • `HTML5` • `CSS3` • `Web APIs`
 * **Engineering Highlights:**
   * Client-side document processing with zero server dependencies
@@ -155,9 +180,7 @@
 ---
 
 ### 🔬 ML Cancer Detection
-
 > **Machine-learning image classification project**
-
 * **Stack:** `Python` • `Machine Learning` • `Computer Vision` • `OpenCV`
 * **Engineering Highlights:**
   * Medical image preprocessing, normalization, and noise reduction pipelines
@@ -170,7 +193,16 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-<<<<<<< HEAD
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Govind-Madhav/Govind-Madhav/main/dist/github-overview.svg" alt="Govind's GitHub Overview" width="48%" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/Govind-Madhav/Govind-Madhav/main/dist/github-languages.svg" alt="Most Used Languages" width="48%" />
+  </p>
+  <br/>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Govind-Madhav/Govind-Madhav/main/dist/github-streak.svg" alt="GitHub Contribution Streak" width="97%" />
+  </p>
+</div>
 
 ---
 
@@ -201,6 +233,18 @@ BCA  ➔  MCA (Cloud Computing)  ➔  Backend & Full-Stack Development  ➔  Clo
 
 ---
 
-## 🌐 Footer
+## 🌐 Connect & Profile Views
 
 <div align="center">
+
+**Let's build something meaningful.**
+
+🌐 **Portfolio:** [govind-madhav.site](https://govind-madhav.site) ([Vercel Mirror](https://govind-madhav.vercel.app/)) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/govind-madhav](https://www.linkedin.com/in/govind-madhav/) &nbsp;|&nbsp; 📧 **Email:** [govindmadhav003@gmail.com](mailto:govindmadhav003@gmail.com)
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=govind-madhav&label=Profile%20Views&color=0055ff&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
