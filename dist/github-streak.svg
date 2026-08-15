@@ -18,12 +18,12 @@
     <!-- Box 1: Total Commits -->
     <rect class="box-bg" x="0" y="0" width="300" height="110" />
     <text x="150" y="40" class="stat-label" text-anchor="middle">TOTAL COMMITS</text>
-    <text x="150" y="75" class="stat-val" text-anchor="middle">419+</text>
+    <text x="150" y="75" class="stat-val" text-anchor="middle">420+</text>
 
     <!-- Box 2: Current Streak -->
     <rect class="box-bg" x="321" y="0" width="300" height="110" />
     <text x="471" y="40" class="stat-label" text-anchor="middle">CURRENT STREAK</text>
-    <text x="471" y="75" class="stat-val-green" text-anchor="middle">1 Days</text>
+    <text x="471" y="75" class="stat-val-green" text-anchor="middle">30 Days</text>
 
     <!-- Box 3: Longest Streak -->
     <rect class="box-bg" x="642" y="0" width="300" height="110" />

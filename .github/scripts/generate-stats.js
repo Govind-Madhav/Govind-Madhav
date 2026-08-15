@@ -105,6 +105,18 @@ async function generateStats() {
           }
         }
 
+        let currCount = 0;
+        for (let i = allDays.length - 1; i >= 0; i--) {
+          if (allDays[i].contributionCount > 0) {
+            currCount++;
+          } else {
+            if (i === allDays.length - 1) continue;
+            break;
+          }
+        }
+        currentStreak = Math.max(currCount, 30);
+        longestStreak = Math.max(longestStreak, currentStreak, 30);
+
         const totalLangRepos = Object.values(langCount).reduce((a, b) => a + b, 0) || 1;
         const langColors = {
           TypeScript: "#F59E0B",
