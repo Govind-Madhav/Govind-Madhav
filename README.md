@@ -18,6 +18,10 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
     <img src="https://img.shields.io/badge/🌐_Portfolio-govind--madhav.site-0055FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
+  <a href="https://govind-madhav.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/▲_Vercel_Mirror-govind--madhav.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Mirror" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/govind-madhav/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-in/govind--madhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -52,6 +56,10 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
       <br/>
       <a href="https://govind-madhav.site" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Visit_Live_Portfolio-govind--madhav.site-0055FF?style=for-the-badge" alt="Visit Portfolio" />
+      </a>
+      &nbsp;
+      <a href="https://govind-madhav.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/▲_Vercel_Mirror-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Mirror" />
       </a>
       &nbsp;
       <a href="https://github.com/govind-madhav/PortFolio-" target="_blank">
@@ -131,7 +139,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
   * Interactive WebGL canvas shaders and mouse-tracking pixel portrait engine
   * Database-backed content management system, visitor analytics, and session auditing
   * Responsive modern UI with production deployment on Vercel & PostgreSQL
-* **Links:** [🌐 Live Website](https://govind-madhav.site) • [💻 Source Code](https://github.com/govind-madhav/PortFolio-)
+* **Links:** [🌐 Live Site (govind-madhav.site)](https://govind-madhav.site) • [▲ Vercel Mirror](https://govind-madhav.vercel.app/) • [💻 Source Code](https://github.com/govind-madhav/PortFolio-)
 
 ---
 
@@ -183,32 +191,13 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=govind-madhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Govind's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind-madhav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=govind-madhav&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind-madhav&theme=react-dark" alt="Govind's GitHub Contribution Activity" />
+</p>
 
----
-
-## ⏱️ Engineering Activity
-
-<div align="center">
-  <p>
-    <a href="https://wakapi.govind-madhav.site" target="_blank">
-      <img src="https://wakapi.govind-madhav.site/api/badge/govindmadhav003@gmail.com/interval:any/project:portfolio" alt="Wakapi Coding Time" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/0055ff/govind-madhav" alt="Govind's Contribution Graph" />
+</p>
 
 ---
 
@@ -245,7 +234,7 @@ BCA  ➔  MCA (Cloud Computing)  ➔  Backend & Full-Stack Development  ➔  Clo
 
 **Let's build something meaningful.**
 
-🌐 **Portfolio:** [govind-madhav.site](https://govind-madhav.site) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/govind-madhav](https://www.linkedin.com/in/govind-madhav/) &nbsp;|&nbsp; 📂 **GitHub:** [github.com/Govind-Madhav](https://github.com/Govind-Madhav)
+🌐 **Portfolio:** [govind-madhav.site](https://govind-madhav.site) ([Vercel Mirror](https://govind-madhav.vercel.app/)) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/govind-madhav](https://www.linkedin.com/in/govind-madhav/) &nbsp;|&nbsp; 📂 **GitHub:** [github.com/Govind-Madhav](https://github.com/Govind-Madhav)
 
 <br/>
 
