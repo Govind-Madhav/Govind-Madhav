@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 */3 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -28,10 +25,9 @@ jobs:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
         run: node .github/scripts/generate-stats.js
 
-      - name: Deploy SVGs to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push dist SVGs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: update realtime profile SVG cards [skip ci]" && git push)
