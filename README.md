@@ -196,9 +196,21 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
   <img src="https://raw.githubusercontent.com/Govind-Madhav/Govind-Madhav/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph Animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind-madhav&theme=react-dark" alt="Govind's GitHub Contribution Activity" />
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=govind-madhav&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Govind's GitHub Overview" width="48%" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=govind-madhav&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" width="48%" />
+  </p>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=govind-madhav&theme=dark&hide_border=false" alt="GitHub Contribution Streak" width="97%" />
+  </p>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind-madhav&theme=react-dark" alt="Govind's GitHub Activity Graph" width="97%" />
+  </p>
+</div>
 
 ---
 
