@@ -192,10 +192,6 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph Animation" width="100%" />
-</p>
-
 <div align="center">
   <p align="center">
     <img src="./dist/github-overview.svg" alt="Govind's GitHub Overview" width="48%" />
