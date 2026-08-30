@@ -15,7 +15,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 <br/><br/>
 
 <p align="center">
-  <a href="[https://govind-madhav.site](https://govindmadhav.dev/)" target="_blank">
+  <a href="[https://govindmadhav.dev](https://govindmadhav.dev/)" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-govind--madhav.site-0055FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
@@ -40,7 +40,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 
 ---
 
-## 🌐 Portfolio Spotlight: [govind-madhav.site](https://govind-madhav.site)
+## 🌐 Portfolio Spotlight: [https://govindmadhav.dev](https://govindmadhav.dev)
 
 <table>
   <tr>
@@ -239,7 +239,7 @@ BCA  ➔  MCA (Cloud Computing)  ➔  Backend & Full-Stack Development  ➔  Clo
 
 **Let's build something meaningful.**
 
-🌐 **Portfolio:** [govind-madhav.site](https://govind-madhav.site) ([Vercel Mirror](https://govind-madhav.vercel.app/)) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/govind-madhav](https://www.linkedin.com/in/govind-madhav/) &nbsp;|&nbsp; 📧 **Email:** [govindmadhav003@gmail.com](mailto:govindmadhav003@gmail.com)
+🌐 **Portfolio:** [govind-madhav.site](https://govindmadhav.dev) ([Vercel Mirror](https://govind-madhav.vercel.app/)) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/govind-madhav](https://www.linkedin.com/in/govind-madhav/) &nbsp;|&nbsp; 📧 **Email:** [govindmadhav003@gmail.com](mailto:govindmadhav003@gmail.com)
 
 <br/>
 
