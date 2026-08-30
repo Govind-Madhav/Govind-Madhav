@@ -84,28 +84,28 @@
 <rect
   x="0.00"
   y="0"
-  width="313.51"
+  width="309.66"
   height="10"
   fill="#10B981"
 />
 <rect
-  x="313.51"
+  x="309.66"
   y="0"
-  width="86.36"
+  width="85.30"
   height="10"
   fill="#F59E0B"
 />
 <rect
-  x="399.87"
+  x="394.96"
   y="0"
-  width="24.90"
+  width="30.08"
   height="10"
   fill="#8B5CF6"
 />
 <rect
-  x="424.77"
+  x="425.03"
   y="0"
-  width="21.23"
+  width="20.97"
   height="10"
   fill="#3B82F6"
 />
@@ -148,7 +148,7 @@
     fill="#10B981"
     text-anchor="end"
   >
-    66.7%
+    65.9%
   </text>
 
 </g>
@@ -185,7 +185,7 @@
     fill="#F59E0B"
     text-anchor="end"
   >
-    18.4%
+    18.2%
   </text>
 
 </g>
@@ -222,7 +222,7 @@
     fill="#8B5CF6"
     text-anchor="end"
   >
-    5.3%
+    6.4%
   </text>
 
 </g>
