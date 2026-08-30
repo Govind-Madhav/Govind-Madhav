@@ -15,7 +15,7 @@ Building resilient backends, distributed systems, cloud infrastructure, and mode
 <br/><br/>
 
 <p align="center">
-  <a href="https://govind-madhav.site" target="_blank">
+  <a href="[https://govind-madhav.site](https://govindmadhav.dev/)" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-govind--madhav.site-0055FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
