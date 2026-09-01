@@ -84,28 +84,28 @@
 <rect
   x="0.00"
   y="0"
-  width="301.40"
+  width="326.35"
   height="10"
   fill="#10B981"
 />
 <rect
-  x="301.40"
+  x="326.35"
   y="0"
-  width="83.03"
+  width="92.35"
   height="10"
   fill="#F59E0B"
 />
 <rect
-  x="384.43"
+  x="418.69"
   y="0"
-  width="41.15"
+  width="16.81"
   height="10"
   fill="#8B5CF6"
 />
 <rect
-  x="425.59"
+  x="435.50"
   y="0"
-  width="20.41"
+  width="10.50"
   height="10"
   fill="#3B82F6"
 />
@@ -148,7 +148,7 @@
     fill="#10B981"
     text-anchor="end"
   >
-    63.8%
+    70.4%
   </text>
 
 </g>
@@ -185,7 +185,7 @@
     fill="#F59E0B"
     text-anchor="end"
   >
-    17.6%
+    19.9%
   </text>
 
 </g>
@@ -222,7 +222,7 @@
     fill="#8B5CF6"
     text-anchor="end"
   >
-    8.7%
+    3.6%
   </text>
 
 </g>
@@ -249,7 +249,7 @@
     y="21"
     class="lang-name"
   >
-    TypeScript
+    Python
   </text>
 
   <text
@@ -259,7 +259,7 @@
     fill="#3B82F6"
     text-anchor="end"
   >
-    4.3%
+    2.3%
   </text>
 
 </g>
